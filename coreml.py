@@ -1,4 +1,4 @@
-***Readme will be fleshed out with time***
+"""
 Author: Jeremy King
 Copyright 2020
 
@@ -14,3 +14,7 @@ Future:
 --Develop vision model and integrate camera input from iPad/iPhone
 --develop version that works on android
 --integrate into a web app
+"""
+import os
+import coremltools
+import pandas 
